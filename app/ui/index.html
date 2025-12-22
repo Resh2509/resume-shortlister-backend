@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Resume Shortlister</title>
+</head>
+<body>
+
+<h1>Resume Shortlister</h1>
+
+<form id="frm">
+    <input type="file" id="file" name="file" accept="application/pdf" required><br><br>
+
+    <input type="text" id="job_role" name="job_role" placeholder="Job Role"><br><br>
+
+    <textarea id="job_description" name="job_description"
+        placeholder="Job description / keywords"></textarea><br><br>
+
+    <button type="submit">Upload</button>
+</form>
+
+<pre id="out"></pre>
+
+<script>
+document.getElementById("frm").addEventListener("submit", async (e) => {
+    e.preventDefault();
+
+    const fileInput = document.getElementById("file").files[0];
+    const formData = new FormData();
+
+    formData.append("file", fileInput);
+    formData.append("job_role", document.getElementById("job_role").value);
+    formData.append("job_description", document.getElementById("job_description").value);
+
+    const response = await fetch("/upload", {
+        method: "POST",
+        body: formData
+    });
+
+    const data = await response.json();
+    document.getElementById("out").textContent = JSON.stringify(data, null, 2);
+});
+</script>
+
+</body>
+</html>

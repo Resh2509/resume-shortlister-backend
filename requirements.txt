@@ -1,0 +1,14 @@
+sentence-transformers
+pymupdf
+pdf2image
+Pillow
+scikit-learn
+PyPDF2
+pdfplumber
+nltk
+fastapi
+uvicorn
+joblib
+python-multipart
+tqdm
+spaCy

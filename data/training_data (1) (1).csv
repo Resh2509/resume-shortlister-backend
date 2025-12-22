@@ -1,0 +1,51 @@
+resume_text,job_role,label
+"Python developer with 3 years experience in Django, Flask, REST APIs, and SQL",Python Developer,1
+Excel accountant with 5 years bookkeeping and payroll experience,Python Developer,0
+"Data analyst skilled in Python, SQL, Tableau, and Power BI with 2 years experience",Data Analyst,1
+"Graphic designer experienced in Photoshop, Illustrator, and UI design",Data Analyst,0
+"Machine learning engineer with expertise in TensorFlow, PyTorch, NLP, and computer vision",ML Engineer,1
+Customer service representative with 3 years experience in call center operations,ML Engineer,0
+"Java developer experienced in Spring Boot, Hibernate, and REST APIs",Java Developer,1
+Sales associate with 4 years experience in retail and inventory management,Java Developer,0
+"Front-end developer skilled in HTML, CSS, JavaScript, React",Front-End Developer,1
+Receptionist with strong communication skills and scheduling experience,Front-End Developer,0
+"Backend developer with expertise in Node.js, Express, MongoDB",Backend Developer,1
+Delivery driver with 2 years of logistics experience,Backend Developer,0
+"DevOps engineer experienced in AWS, Docker, Kubernetes, CI/CD pipelines",DevOps Engineer,1
+Office assistant with data entry and filing experience,DevOps Engineer,0
+"Full-stack developer skilled in React, Node.js, SQL, and API integration",Full-Stack Developer,1
+Marketing coordinator with experience in social media campaigns,Full-Stack Developer,0
+"QA engineer with expertise in Selenium, JUnit, and automated testing",QA Engineer,1
+Waiter with experience in fine dining service,QA Engineer,0
+"Data scientist skilled in Python, R, machine learning, and statistical analysis",Data Scientist,1
+Receptionist with strong organizational and multitasking abilities,Data Scientist,0
+"Cybersecurity analyst experienced in threat detection, SIEM, and network security",Cybersecurity Analyst,1
+Cashier with experience handling transactions and customer service,Cybersecurity Analyst,0
+"AI researcher with experience in NLP, deep learning, and computer vision projects",AI Engineer,1
+Warehouse worker with experience in inventory management and shipping,AI Engineer,0
+React developer with experience building responsive web applications,Front-End Developer,1
+Tutor with 3 years of teaching math and science,Front-End Developer,0
+"Python backend developer skilled in Flask, Django, SQL, and REST APIs",Backend Developer,1
+Driver with clean license and 5 years experience in logistics,Backend Developer,0
+Machine learning intern with experience in NLP projects and Python programming,ML Engineer,1
+Receptionist with 2 years experience in office administration,ML Engineer,0
+"Full-stack engineer skilled in JavaScript, React, Node.js, and MongoDB",Full-Stack Developer,1
+Customer support agent experienced in answering calls and emails,Full-Stack Developer,0
+"Cloud engineer with AWS, Azure, Docker, and Kubernetes experience",Cloud Engineer,1
+Delivery boy with 2 years of courier experience,Cloud Engineer,0
+"Data analyst skilled in Excel, SQL, Tableau, and Power BI dashboards",Data Analyst,1
+Office clerk with 1 year experience in filing and documentation,Data Analyst,0
+"Java developer with experience in Spring Boot, Hibernate, and RESTful services",Java Developer,1
+Cashier experienced in POS systems and cash handling,Java Developer,0
+"AI engineer skilled in deep learning, computer vision, and Python",AI Engineer,1
+Warehouse assistant with experience in inventory and shipping,AI Engineer,0
+"DevOps specialist with CI/CD, Docker, Kubernetes, Jenkins experience",DevOps Engineer,1
+Receptionist with 3 years experience managing office front desk,DevOps Engineer,0
+"Front-end developer experienced in React, Angular, HTML, CSS, JavaScript",Front-End Developer,1
+Retail associate with 2 years experience in customer service,Front-End Developer,0
+"Data scientist with experience in Python, R, ML models, and data visualization",Data Scientist,1
+Delivery person with 1 year experience in logistics and transportation,Data Scientist,0
+"QA tester with expertise in Selenium, manual testing, and reporting bugs",QA Engineer,1
+Receptionist with experience managing schedules and appointments,QA Engineer,0
+"Full-stack developer skilled in Node.js, React, MongoDB, and API development",Full-Stack Developer,1
+Office assistant experienced in filing and document management,Full-Stack Developer,0
