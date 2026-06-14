@@ -165,6 +165,18 @@ python main.py
 ```bash
 python api.py
 ```
+User Interface
+
+The project includes a recruiter-facing dashboard developed as part of the team project.
+
+Frontend Features:
+- Resume upload interface
+- Candidate ranking dashboard
+- ATS score visualization
+- Shortlisted candidate view
+- Search and filtering capabilities
+
+Note: Frontend implementation was developed by another team member. This repository focuses on the backend, machine learning pipeline, NLP processing, and candidate ranking system.
 
 Skills Demonstrated
 
